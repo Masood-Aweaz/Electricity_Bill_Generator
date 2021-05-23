@@ -1,0 +1,15 @@
+Welcome to the information page of our ELECTRICITY DEPARTMENT
+
+_______Charges Split Up___________
+
+	First 100 units ------------> 1 rupee per unit
+
+	Next 100 units -------------> 1.5 rupee per unit
+
+	Next 100 units -------------> 2 rupee per unit
+
+	Onward units ---------------> 2.5 rupee per unit
+
+
+	____SAVE ELECTRICITY ----- SAVE WORLD____
+

@@ -1,0 +1,11 @@
+	ELECTRICITY BILL
+ METER NO.=	0
+ NAME=	
+ PHONE NO.=	
+ ADDRESS=	
+ UNITS=	0
+ AMMOUNT=	0
+
+Please Pay The bill within 15 days of Issue
+SAVE ELECTRICITY SAVE EARTH
+	..THANK YOU..	
